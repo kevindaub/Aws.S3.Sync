@@ -4,10 +4,10 @@ Small wrapper script that calls AWS S3 synchronization and emails the results at
 
 ## TODO
 
-[ ] - Store encryption key securely.
-[ ] - Store email password securely.
-[ ] - Sign script
-[ ] - Create chocolatey package.
+- [ ] Store encryption key securely.
+- [ ] Store email password securely.
+- [ ] Sign script
+- [ ] Create chocolatey package.
 
 ## Preqs
 
